@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.0-canary.167
+
+### Patch Changes
+
+- b79b6a8: fix(ai): add approval guard for denied tool outputs
+
 ## 7.0.0-canary.166
 
 ### Patch Changes
